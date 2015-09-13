@@ -10,11 +10,7 @@ int main() {
 
 	for (;;) {
 
-		for (;;) {
-
-			new double;
-
-		}
+		new double;
 		
 	}
 
