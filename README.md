@@ -6,4 +6,4 @@ Simply run .sln file with latest MS Visual Studio and then build it.
 Or compile MemoryEater.cpp file.
 
 # License
-MIT
+<a href="https://github.com/vanelizarov/MemoryEater/blob/master/LICENSE">MIT</a>
